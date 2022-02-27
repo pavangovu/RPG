@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Enemy()
+comment0.text=Default\ Enemy\ constructor.\ Enemy\ object\ will\ be\ assigned\ a\ name\ of\ "Unnamed\ enemy47",\ health\ \r\n\ of\ 1,\ attack\ power\ of\ 1,\ defense\ 1,\ taunt\ of\ "[insert\ taunt\ here]",\ and\ an\ attack\ move\ of\ "[insert\r\n\ attack\ move\ here]".\r\n
+comment1.params=name\ health\ attackPower\ defense\ greeting\ taunt\ attackMove
+comment1.target=Enemy(java.lang.String,\ int,\ int,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=Construct\ Enemy\ object\ with\ full\ properties.\r\n
+comment2.params=
+comment2.target=java.lang.String\ attackMessage()
+comment2.text=Returns\ the\ attack\ move\ message\ of\ this\ Enemy.\ \r\n
+comment3.params=attackMove
+comment3.target=void\ setAttackMove(java.lang.String)
+comment3.text=Sets\ the\ attack\ move\ message\ of\ this\ Enemy.\ \r\n
+comment4.params=taunt
+comment4.target=void\ setTaunt(java.lang.String)
+comment4.text=Sets\ the\ taunt\ message\ of\ this\ Enemy.\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ tauntMessage()
+comment5.text=Returns\ the\ taunt\ message\ of\ this\ Enemy.\ \ \r\n
+numComments=6

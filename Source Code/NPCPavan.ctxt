@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NPCPavan()
+comment0.text=Default\ constructor\ only.\ \ NPCPavan\ is\ always\ constructed\ as\ "Pavan".
+comment1.params=
+comment1.target=java.lang.String\ describe()
+comment1.text=Returns\ a\ description\ of\ Pavan.\ Used\ to\ introduce\ the\ character.
+comment2.params=h
+comment2.target=void\ talk(Hero)
+comment2.text=\ Runs\ a\ dialogue\ between\ the\ Hero\ object\ and\ Pavan.\r\n\ Since\ the\ dialogue\ is\ handled\ within\ this\ object,\ a\ reference\ to\ the\ \r\n\ Hero\ object\ must\ be\ passed\ in\ such\ that\ the\ methods\ of\ our\ Hero\ object\ are\ \r\nalso\ accessible.
+comment3.params=h
+comment3.target=void\ barter(Hero)
+comment3.text=\ Runs\ a\ barter\ sequence\ between\ the\ Hero\ object\ and\ Pavan.\r\n\ Our\ hero\ may\ choose\ to\ increase\ any\ of\ his\ stats,\ free\ of\ cost.\r\n\ Since\ the\ dialogue\ is\ handled\ within\ this\ object,\ a\ reference\ to\ the\ \r\n\ Hero\ object\ must\ be\ passed\ in\ such\ that\ the\ methods\ of\ our\ Hero\ object\ are\ \r\nalso\ accessible.
+numComments=4

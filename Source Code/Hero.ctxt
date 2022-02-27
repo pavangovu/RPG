@@ -1,0 +1,35 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hero()
+comment0.text=\r\n\ Default\ Hero\ constructor.\ Hero\ object\ will\ be\ assigned\ a\ name\ of\ "Unnamed\ Hero",\ health\ of\ 50,\ \r\n\ attack\ power\ of\ 20,\ defense\ 10,\ kill\ count\ of\ 0,\ gold\ count\ of\ 0,\ and\ a\ battle\ cry\ of\ "[insert\ Battle\ Cry\ here]".\ \r\n
+comment1.params=name
+comment1.target=Hero(java.lang.String)
+comment1.text=\r\n\ Construct\ Hero\ object\ with\ name\ only.\ Hero\ object\ will\ be\ assign\ these\ default\ values\:\ health\ of\ 50,\ \r\n\ attack\ power\ of\ 20,\ defense\ 10,\ kill\ count\ of\ 0,\ gold\ count\ of\ 0,\ and\ a\ battle\ cry\ of\ "[insert\ Battle\ Cry\ here]".\ \r\n
+comment10.params=
+comment10.target=java.lang.String\ yell()
+comment10.text=\r\n\ Returns\ the\ battle\ cry\ of\ this\ Hero.\r\n
+comment2.params=name\ health\ attackPower\ defense
+comment2.target=Hero(java.lang.String,\ int,\ int,\ int)
+comment2.text=\r\n\ Construct\ Hero\ object\ with\ name,\ health,\ attack\ power,\ and\ defense.\ Hero\ object\ will\ be\ assign\ these\ \r\n\ default\ values\:\ kill\ count\ of\ 0,\ gold\ count\ of\ 0,\ and\ a\ battle\ cry\ of\ "[insert\ battle\ cry\ here]\ \r\n
+comment3.params=name\ health\ attackPower\ defense\ greeting\ battleCry
+comment3.target=Hero(java.lang.String,\ int,\ int,\ int,\ java.lang.String,\ java.lang.String)
+comment3.text=\ \r\n\ Constructs\ a\ Hero\ object\ with\ all\ properties\ except\ goldCount\ and\ killCount.\r\n
+comment4.params=
+comment4.target=int\ getGoldCount()
+comment4.text=\r\n\ Returns\ the\ gold\ count\ of\ this\ Hero.\r\n
+comment5.params=
+comment5.target=int\ getKillCount()
+comment5.text=\r\n\ Returns\ the\ kill\ count\ of\ this\ Hero.\ \r\n
+comment6.params=
+comment6.target=void\ incKillCount()
+comment6.text=\r\n\ Increments\ the\ kill\ count\ of\ this\ Hero.\r\n
+comment7.params=battleCry
+comment7.target=void\ setBattleCry(java.lang.String)
+comment7.text=\r\n\ Sets\ the\ battle\ cry\ of\ this\ Hero.\r\n
+comment8.params=gold
+comment8.target=void\ setGoldCount(int)
+comment8.text=\r\n\ Sets\ the\ gold\ count\ of\ this\ Hero.\r\n
+comment9.params=
+comment9.target=java.lang.String\ toString()
+comment9.text=\r\n\ Returns\ a\ message\ for\ this\ Hero\ stating\ name\ and\ full\ stats.\ HP\ \=\ health,\ Att\ \=\ (maximum)\ attack\ power,\ \r\n\ Def\ \=\ (maximum)\ defense.\ Example\ return\ string\:\ Fred\ [HP\ 45]\ [Att\ 23]\ [Def\ 24]\ [Kills\ 4]\ [Gold\ 18]\ \r\n
+numComments=11

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Character()
+comment0.text=Default\ constructor.\r\n
+comment1.params=name
+comment1.target=Character(java.lang.String)
+comment1.text=Constructs\ object\ with\ name.\r\n
+comment2.params=name\ greeting
+comment2.target=Character(java.lang.String,\ java.lang.String)
+comment2.text=Constructs\ object\ with\ name\ and\ greeting\ message.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getGreeting()
+comment3.text=Returns\ the\ greeting\ message\ of\ this\ Character.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment4.text=Returns\ the\ name\ of\ this\ Character.\r\n
+comment5.params=greeting
+comment5.target=void\ setGreeting(java.lang.String)
+comment5.text=Sets\ the\ greeting\ message\ of\ this\ Character.\r\n
+comment6.params=name
+comment6.target=void\ setName(java.lang.String)
+comment6.text=Sets\ the\ name\ of\ this\ Character.\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=Returns\ a\ message\ for\ this\ Character\ stating\ the\ greeting.\r\n
+numComments=8

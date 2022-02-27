@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NPCWarrior()
+comment0.text=\ \r\n\ Default\ constructor\ only.\ NPCWarrior\ is\ always\ constructed\ as\ "Ravum\ Greymane".\ At\ time\ of\ construction,\ \r\n\ warrior\ is\ assigned\ a\ need\ of\ defense\ in\ order\ to\ facilitate\ the\ barter\ sequence.\r\n
+comment1.params=
+comment1.target=java.lang.String\ describe()
+comment1.text=\ \r\n\ Returns\ a\ description\ of\ Ravum\ Greymane,\ used\ to\ introduce\ the\ character.\r\n
+comment2.params=h
+comment2.target=void\ talk(Hero)
+comment2.text=\ Runs\ a\ dialogue\ between\ the\ Hero\ object\ and\ Ravum\ Greymane.\r\n\ Since\ the\ dialogue\ is\ handled\ within\ this\ object,\ a\ reference\ to\ the\ \r\n\ Hero\ object\ must\ be\ passed\ in\ such\ that\ the\ methods\ of\ our\ Hero\ object\ are\ \r\nalso\ accessible.
+comment3.params=h
+comment3.target=void\ barter(Hero)
+comment3.text=\ Runs\ a\ barter\ sequence\ between\ the\ Hero\ object\ and\ Ravum\ Greymane.\ Our\ hero\ \r\n\ may\ acquire\ a\ boost\ in\ certain\ stats\ in\ exchange\ for\ defense\ ability.\ \ \r\n\ Since\ the\ dialogue\ is\ handled\ within\ this\ object,\ a\ reference\ to\ the\ Hero\ \r\n\ object\ must\ be\ passed\ in\ such\ that\ the\ methods\ of\ our\ Hero\ object\ are\ also\ \r\naccessible.
+numComments=4

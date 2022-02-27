@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NPC()
+comment0.text=\r\n\ Default\ NPC\ constructor.\r\n
+comment1.params=name\ greeting
+comment1.target=NPC(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Construct\ NPC\ with\ name\ and\ greeting\ message.\r\n
+comment2.params=h
+comment2.target=void\ barter(Hero)
+comment2.text=\r\n\ Runs\ a\ barter\ sequence\ between\ the\ Hero\ object\ and\ the\ NPC\ object.\ Since\ the\ sequence\ is\ handled\ within\ the\ \r\n\ NPC\ object,\ a\ reference\ to\ the\ Hero\ object\ must\ be\ passed\ in\ such\ that\ the\ methods\ of\ our\ Hero\ object\ are\ \r\n\ also\ accessible.\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ describe()
+comment3.text=\r\n\ Returns\ a\ description\ of\ the\ NPC.\ Used\ to\ introduce\ the\ character.\r\n
+comment4.params=h
+comment4.target=void\ talk(Hero)
+comment4.text=\r\n\ Runs\ a\ dialogue\ between\ the\ Hero\ object\ and\ the\ NPC\ object.\ Since\ the\ dialogue\ is\ handled\ within\ the\ NPC\ \r\n\ object,\ a\ reference\ to\ the\ Hero\ object\ must\ be\ passed\ in\ such\ that\ the\ methods\ of\ our\ Hero\ object\ are\ also\ \r\n\ accessible.\r\n
+numComments=5

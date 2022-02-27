@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Rndm()
+comment1.params=lowerBound\ upperBound
+comment1.target=double\ decimal(double,\ double)
+comment1.text=\r\n\ Returns\ a\ random\ double\ between\ the\ lower\ bound\ and\ upper\ bound,\ not\ inclusive.\ \r\n
+comment2.params=lowerBound\ upperBound
+comment2.target=int\ integer(int,\ int)
+comment2.text=\r\n\ Returns\ a\ random\ integer\ between\ the\ lower\ and\ upper\ bound,\ inclusive.\ \r\n
+numComments=3

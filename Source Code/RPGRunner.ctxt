@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Basic\ main.\ Contains\ the\ initial\ gameplay\ logistics.\r\n
+comment1.params=
+comment1.target=void\ pL()
+comment1.text=\r\n\ Prints\ a\ separator\ line.\ Provides\ clarity\ in\ user\ interface\ and\ gameplay.\r\n
+comment2.params=
+comment2.target=void\ g()
+comment2.text=\r\n\ Prints\ a\ separator\ gap.\ Provides\ clarity\ in\ user\ interface\ and\ gameplay.\r\n
+comment3.params=
+comment3.target=void\ Interact()
+comment3.text=\r\n\ Runs\ an\ interaction\ sequence\ between\ the\ Hero\ and\ the\ NPC.\ This\ method\ is\ only\ called\ if\ the\ Hero\ encounters\ an\ NPC,\ which\ is\ determined\ in\ the\ Main.\r\n
+comment4.params=
+comment4.target=void\ Battle()
+comment4.text=\r\n\ Runs\ an\ battle\ sequence\ between\ the\ Hero\ and\ the\ enemy.\ This\ method\ is\ only\ called\ if\ the\ Hero\ encounters\ an\ enemy,\ which\ is\ determined\ in\ the\ Main.\ Either\ the\ hero\ or\ the\ enemy\ will\ end\ up\ dead\ after\ this\ sequence.\r\n
+numComments=5
